@@ -1,5 +1,5 @@
 # twotofive-obscure
-```Java
+```Java linenums
 // Opens a dialog with the question "Obscure enough?"
 public interface ng<t, r> {
 	@java.lang.annotation.Native int azng323231323333122333313233222322239vXr5r7v50x5yb709tdbb709tabFrdr1 = 100234, lzng2232223333b709tdrdr4 = 12, Azng223132332132232v4r8Gvv50x5ybVx = 'n' + 'g', Lzng3232313233331223333132332v50x5yb709tdBb709tabfrdr1 = (int) 9987L, zzng213230323231333321223232111213233111323231333321223333322321323313323331323321211223233202333221111212333332111o65va67a0ubwo64syxc65vwv9ctas949w5x63r0x490w56we6yabv5ra560b794bx50eabfrdr1o65e6yabwo65v4r904bx50eabfrdr1wev5qw = (int) 0.00e-132f, Zzng23233rdv = 47;
